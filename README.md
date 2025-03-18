@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**thaisferreeirah/thaisferreeirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou aluna de Análise e Desenvolvimento de Sistemas na FATEC da cidade de Cruzeiro. Já concluí um curso técnico em Administração, também trabalhei com telemarketing. 
+Sou comunicativa, gosto de aprender coisas novas e enfrentar desafios. Estou a procura de oportunidades na área de tecnologia.
 
-Here are some ideas to get you started:
+Experiencia:
+Estagiária
+DkSoft · Estágio
+  - HTML
+  - CSS
+  - PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formação acadêmicaFormação acadêmica
+Fatec Cruzeiro - Prof. Waldomiro May
+
+Curso Superior de Tecnologia (CST)
+Análise e Desenvolvimento de Sistemas
+
+Competencias:
+  - C#
+  - Java
+  - SQL
+  - Trabalho em equipe
+  - Capacidade de organização
+  - UML (Linguagem de modelagem unificada)
+  - Documentação de software
+  - PHP
+  
+#linkedin:
+https://www.linkedin.com/in/thais-ferreira-capucho-6155051b3/
+
