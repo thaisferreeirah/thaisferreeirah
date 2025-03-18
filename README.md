@@ -12,7 +12,7 @@ DkSoft · Estágio
 
 Fatec Cruzeiro - Prof. Waldomiro May
 
-### Curso Superior de Tecnologia (CST):
+Curso Superior de Tecnologia (CST):
 
 Análise e Desenvolvimento de Sistemas
 
