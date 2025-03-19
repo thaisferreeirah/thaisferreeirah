@@ -1,6 +1,6 @@
 
-Sou aluna de Análise e Desenvolvimento de Sistemas na FATEC da cidade de Cruzeiro. Já concluí um curso técnico em Administração, também trabalhei com telemarketing. 
-Sou comunicativa, gosto de aprender coisas novas e enfrentar desafios. Estou a procura de oportunidades na área de tecnologia.
+Sou aluna de Análise e Desenvolvimento de Sistemas na Fatec Cruzeiro. Concluí o curso técnico em Administração. 
+Sou comunicativa, gosto de aprender coisas novas e de novos desafios. Estou a procura de oportunidades na área de tecnologia.
 
 ### Experiencia:
 DkSoft · Estágio
