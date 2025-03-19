@@ -27,5 +27,5 @@ Competencias:
   - PHP
   
 #linkedin:
-https://www.linkedin.com/in/thais-ferreira-capucho-6155051b3/
+https://www.linkedin.com/in/thais-ferreira-capucho/
 
