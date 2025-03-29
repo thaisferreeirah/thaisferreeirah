@@ -29,29 +29,6 @@ Competencias:
 #linkedin:
 https://www.linkedin.com/in/thais-ferreira-capucho/
 
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-</head>
-<body>
-    <div class="swiper-container">
-        <div class="swiper-wrapper">
-            <div class="swiper-slide">🏠 Boas-vindas</div>
-            <div class="swiper-slide">🛋️ Sala de Estar</div>
-            <div class="swiper-slide">🍳 Cozinha</div>
-            <div class="swiper-slide">🌳 Jardim</div>
-        </div>
-    </div>
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        const swiper = new Swiper('.swiper-container', {
-            direction: 'horizontal',
-            loop: true
-        });
-    </script>
-</body>
-</html>
 
 
 
